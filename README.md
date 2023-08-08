@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KiarashKiani79
-- 👀 I’m interested in "Front-End development"
-- 🌱 I’m currently learning "Flutter & Wordpress"
+- I am a Flutter proficient.
 - 📫 How to reach me -> "kiarash.kiani7997@gmail.com"
 
 <!---
