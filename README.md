@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KiarashKiani79
-- I am a Flutter proficient.
+- 👋 Hi, I’m @KiarashKiani79 & Flutter proficient
 - 📫 How to reach me -> "kiarash.kiani7997@gmail.com"
 
 <!---
