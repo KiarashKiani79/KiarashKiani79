@@ -16,10 +16,9 @@
 
 Here is [**MyResume**](https://drive.google.com/file/d/1OyhJnJDFXFEWr_y2EzIckbMgM_ecPCJ4/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kiarashkiani_pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiarashkiani_pv" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
