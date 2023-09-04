@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences?
 
-Here is [**MyResume**](https://drive.google.com/file/d/1OyhJnJDFXFEWr_y2EzIckbMgM_ecPCJ4/view?usp=drive_link)
+Here is [**MyResume**](https://drive.google.com/drive/folders/1iPEBJiXvi676qFOYfDIMjlAzrXWFquSF)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
