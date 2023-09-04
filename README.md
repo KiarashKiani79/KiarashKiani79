@@ -1,4 +1,4 @@
-![logo](https://github.com/KiarashKiani79/KiarashKiani79/blob/main/logo2.png)
+<!-- ![logo](https://github.com/KiarashKiani79/KiarashKiani79/blob/main/logo2.png) -->
 <h1 align="center">Hi 👋, I'm Kiarash Kiani</h1>
 <h3 align="center">A passionate mobile app developer</h3>
 
