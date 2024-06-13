@@ -5,7 +5,7 @@
 <!-- ![logo](https://github.com/KiarashKiani79/KiarashKiani79/blob/main/logo2.png) -->
 
 <h1 align="center">Hi, I'm Kiarash</h1>
-<h2 align="center">Currently Studying Machine Learning and Data Science</h2>
+<h2 align="center">Machine Learning Engineer</h2>
 
 <!--- snake -->
 
